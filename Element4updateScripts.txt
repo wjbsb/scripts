@@ -1,0 +1,3 @@
+List-columns 
+https://r4ds.had.co.nz/many-models.html
+https://jennybc.github.io/purrr-tutorial/ls13_list-columns.html
